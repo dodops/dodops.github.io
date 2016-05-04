@@ -3,7 +3,7 @@ title:  "Hello World!"
 date:   2016-05-04 11:27:00
 description: Primeiro Post, Hello World!
 ---
-Primeiro é importante dizer que não sou um expert, muito menos um guru de qualquer um dos assuntos aqui tratados. Sou apenas um jovem recém formado em Sistemas de Informação a procura de novas formas, novas ferramentas, nova carreira, novo emprego ([Hire me!](http://github.com/dodops)).
+Começo hoje um projeto que já estava nos meus planos desde que comecei a me interessar por desenvolvimento. Apesar de ser um blog prioritariamente sobre assuntos tecnicos, é importante dizer que não sou um expert, muito menos um guru dos assuntos aqui tratados. Sou apenas um jovem recém formado em Sistemas de Informação, um eterno estudante a procura de novas formas, novas ferramentas, nova carreira, novo emprego ([Hire me!](http://github.com/dodops)).
 
 O blog servirá mais como um notebook, onde coisas novas que eu venha a descobrir, a aprender possam ter seu lugar e serem revisitadas tanto por mim como para outros que desejem tal.
 
