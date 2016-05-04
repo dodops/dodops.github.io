@@ -2,7 +2,7 @@ name: Dodops blog
 description: Blogando sobre desenvolvimento
 meta_description: "Dodops Blog - Dev Web"
 aboutPage: true
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 paginate: 20
 baseurl: /
