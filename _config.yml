@@ -3,7 +3,7 @@ description: Blogando sobre desenvolvimento
 meta_description: "Dodops Blog - Dev Web"
 aboutPage: true
 markdown: redcarpet
-highlighter: pigments
+highlighter: rouge
 paginate: 20
 baseurl: /
 domain_name: 'http://dodops.github.io'
