@@ -1,7 +1,7 @@
 # Personal Blog
 
 This is an archive of my new created blog using [Jekyll](http://jekyllrb.com)
-Here I'm planing to talk about web development tools, mostyl about Ruby ans its awesome ecosystem.
+Here I'm planing to talk about web development tools, mostly about Ruby and its awesome ecosystem.
 
 ## Theme used
 
