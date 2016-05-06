@@ -8,8 +8,8 @@ paginate: 20
 baseurl: /
 domain_name: 'http://dodops.github.io'
 google_analytics: 'UA-77295148-1'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus: true
+disqus_shortname: 'dodops'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
